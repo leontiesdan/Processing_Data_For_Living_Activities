@@ -1,0 +1,10 @@
+Task 5 : 
+Breakfast - Duration = 0-2:58:8
+Toileting - Duration = 0-2:20:34
+Grooming - Duration = 0-2:40:42
+Sleeping - Duration = 5-11:3:31
+Leaving - Duration = 1-3:44:44
+Spare_Time/TV - Duration = 5-22:28:55
+Showering - Duration = 0-1:34:9
+Snack - Duration = 0-0:6:1
+Lunch - Duration = 0-5:13:31
